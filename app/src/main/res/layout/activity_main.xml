@@ -26,6 +26,7 @@
       android:onClick="pause"
       android:text="暂停"
       />
+
   <Button
       android:layout_width="0dp"
       android:layout_height="wrap_content"
