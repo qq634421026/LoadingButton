@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
   @Override protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_main);
-    //测试哦
+    //测试哦是是是
     loadingbutton = (LoadButton) findViewById(R.id.loadingbutton);
   }
 
